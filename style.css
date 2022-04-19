@@ -1,0 +1,147 @@
+* {
+
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.sec-1 {
+    margin: 50px;
+    display: flex;
+    width: 100%;
+    margin-right: 50px;
+
+
+
+}
+
+h1 {
+    font-weight: 50px;
+    font-size: 70px;
+    font-family: 'Oswald', sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(121, 121, 121);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background: rgba(49, 206, 218, 0.836);
+    padding: 20px;
+    border-radius: 20px;
+    display: block;
+    width: 110px;
+    margin-top: 50px;
+}
+
+.skip-color {
+    font-family: 'Oswald', sans-serif;
+    color: orange;
+
+
+}
+
+.half-width {
+    width: 50%;
+}
+
+.images1 img {
+    width: 80%;
+    height: auto;
+    margin-left: 70px;
+}
+
+.sec-2 .images2 img {
+    width: 300px;
+    height: auto;
+    margin-left: 70px;
+    overflow: hidden;
+    margin-left: 150px;
+    margin-top: 25px;
+}
+
+.sec-2 {
+    background-image: url(images/shapes/7.png);
+    display: flex;
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+
+}
+
+.about a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background: rgba(49, 206, 218, 0.836);
+    padding: 20px;
+    border-radius: 20px;
+    display: block;
+    width: 110px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+.text2 {
+    font-size: 20px;
+    color: black;
+
+}
+
+.about h1 {
+    color: rgb(121, 121, 121);
+    margin-bottom: 20px;
+}
+.recepi{
+    width: 90%;
+    height: 500px;
+    border: 2px solid rgba(49, 206, 218, 0.836);
+    margin: 0px auto;
+    display: flex;
+}
+.recepi1{
+    width: 30%;
+    height: 500px;
+    border: 2px solid rgba(57, 18, 75, 0.836);
+    margin-left: 1.5%;
+    box-shadow: 5px 7px 40px grey;
+   
+}
+.recepi2{
+    width: 30%;
+    height: 500px;
+    border: 2px solid rgba(8, 160, 165, 0.836);
+    margin-left: 3%;
+    box-shadow: 5px 7px 40px grey;
+   
+}
+.recepi3{
+    width: 30%;
+    height: 500px;
+    border: 2px solid rgba(57, 18, 75, 0.836);
+    margin-left: 3%;
+    box-shadow: 5px 7px 40px grey;
+   
+}
+
+.foodimg{
+    height: 300px;
+    width: 90%;
+    margin: 0px auto;
+    display: block;
+}
+.foodtitle{
+    font-size: 35px;
+    margin-left: 10px;
+}
+.fooddes{
+    margin-left: 10px;
+}
+
