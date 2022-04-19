@@ -99,53 +99,60 @@ a {
     color: rgb(121, 121, 121);
     margin-bottom: 20px;
 }
-.recepi{
+
+.recepi {
     width: 90%;
     height: 500px;
-  
+
     margin: 0px auto;
     display: flex;
 }
-.recepi1{
+
+.recepi1 {
     width: 30%;
     height: 550px;
     margin-left: 1.5%;
     border-radius: 27px;
     box-shadow: 5px 7px 40px grey;
-   
-}
-.recepi2{
-    width: 30%;
-    height: 550px;
-    border-radius: 27px;
-    margin-left: 3%;
-    box-shadow: 5px 7px 40px grey;
-   
-}
-.recepi3{
-    width: 30%;
-    height: 550px;
-    border-radius: 27px;
-    margin-left: 3%;
-    box-shadow: 5px 7px 40px grey;
-   
+
 }
 
-.foodimg{
+.recepi2 {
+    width: 30%;
+    height: 550px;
+    border-radius: 27px;
+    margin-left: 3%;
+    box-shadow: 5px 7px 40px grey;
+
+}
+
+.recepi3 {
+    width: 30%;
+    height: 550px;
+    border-radius: 27px;
+    margin-left: 3%;
+    box-shadow: 5px 7px 40px grey;
+
+}
+
+.foodimg {
     height: 300px;
     width: 90%;
     margin: 0px auto;
     display: block;
     margin-top: 4%;
 }
-.foodtitle{
+
+.foodtitle {
     font-size: 35px;
     margin-left: 10px;
 }
-.fooddes{
+
+.fooddes {
     margin: 10px;
 }
-.mid{
+
+.mid {
 
     width: 40%;
     height: 250px;
@@ -153,66 +160,82 @@ a {
 
 }
 
-.midh1{
+.midh1 {
     text-align: center;
     margin-bottom: 20px;
 }
-.midp{
+
+.midp {
     text-align: center;
 }
 
-.subscriber{
+.subscriber {
     height: 200px;
     width: 90%;
     box-shadow: 5px 7px 40px grey;
     margin: 0px auto;
-   margin-top: 200px;
-   display: flex;
+    margin-top: 200px;
+    display: flex;
 }
 
-.youtube{
+.youtube {
     width: 33%;
     height: 200px;
     margin-top: 27px;
     margin-left: 0.2%;
 }
-.instramgram{
-    width: 33%;
-    height: 200px;
-    margin-top: 27px;
-}
-.drible{
+
+.instramgram {
     width: 33%;
     height: 200px;
     margin-top: 27px;
 }
 
-.users{
+.drible {
+    width: 33%;
+    height: 200px;
+    margin-top: 27px;
+}
+
+.users {
     margin: 0px;
     text-align: center;
 
 }
-.site{
+
+.site {
     text-align: center;
 }
 
-.footer{
+.footer {
     background-color: black;
     width: 100%;
     height: 300px;
     margin-top: 150px;
+    overflow: hidden;
 }
 
-.footerh1 h1{
+.footerh1 {
+    margin-top: 50px;
+    overflow: hidden;
+}
+
+.footerh1 h1 {
     text-align: center;
-    color:gray;
+    color: gray;
     font-size: 35px;
 
+
 }
-.food12{
+
+.food12 {
     color: orange;
     font-size: 35px;
     font-weight: bold;
     font-family: 'Nunito Sans', sans-serif;
-    
+
+}
+
+.lastdes {
+    text-align: center;
 }
